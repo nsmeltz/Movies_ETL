@@ -1,3 +1,7 @@
+# Ignore back up file too big
+
+movies_data.backup
+
 # Ignore config.py
 config.py
 
